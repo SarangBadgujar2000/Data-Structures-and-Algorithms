@@ -71,3 +71,4 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.java)|0 ms|
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java](./Solutions/84.%20Largest%20Rectangle%20in%20Histogram.java)|106 ms|
 |85|[ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java](./Solutions/85.%20Maximal%20Rectangle.java)|24 ms|
+|86|[ Partition List](https://leetcode.com/problems/partition-list/)|[Java](./Solutions/86.%20Partition%20List.java)|0 ms|
