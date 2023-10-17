@@ -77,5 +77,6 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.java)|0 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./Solutions/98.%20Validate%20Binary%20Search%20Tree.java)|0 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./Solutions/100.%20Same%20Tree.java)|0 ms|
+|101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./Solutions/101.%20Symmetric%20Tree.java)|0 ms|
 
 
