@@ -74,3 +74,5 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |86|[ Partition List](https://leetcode.com/problems/partition-list/)|[Java](./Solutions/86.%20Partition%20List.java)|0 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./Solutions/88.%20Merge%20Sorted%20Array.java)|1 ms|
 |92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./Solutions/92.%20Reverse%20Linked%20List%20II.java)|0 ms|
+|94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./Solutions/94.%20Binary%20Tree%20Inorder%20Traversal.java)|0 ms|
+
