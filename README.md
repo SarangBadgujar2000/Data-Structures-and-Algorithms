@@ -69,6 +69,4 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |81|[ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./Solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.java)|3 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./Solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.java)|0 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.java)|0 ms|
-
-
-
+|84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java](./Solutions/84.%20Largest%20Rectangle%20in%20Histogram.java)|106 ms|
