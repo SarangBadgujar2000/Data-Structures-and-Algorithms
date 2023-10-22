@@ -80,6 +80,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./Solutions/101.%20Symmetric%20Tree.java)|0 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./Solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.java)|1 ms|
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Java](./Solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.java)|1 ms|
+|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./Solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.java)|0 ms|
+
 
 
 
