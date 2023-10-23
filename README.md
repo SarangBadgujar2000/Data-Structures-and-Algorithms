@@ -89,6 +89,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |117|[ Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Java](./Solutions/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java)|0 ms|
 |118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./Solutions/118.%20Pascal's%20Triangle.java)|1 ms|
 |119|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./Solutions/119.%20Pascal's%20Triangle%20II.java)|1 ms|
+|120|[ Triangle](https://leetcode.com/problems/triangle/)|[Java](./Solutions/120.%20Triangle.java)|3 ms|
+
 
 
 
