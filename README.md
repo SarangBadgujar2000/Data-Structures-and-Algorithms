@@ -86,6 +86,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.java)|1 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./Solutions/112.%20Path%20Sum.java)|0 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Java](./Solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java)|0 ms|
+|117|[ Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Java](./Solutions/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.java)|0 ms|
+
 
 
 
