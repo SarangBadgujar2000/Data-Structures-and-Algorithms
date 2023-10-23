@@ -91,6 +91,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |119|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./Solutions/119.%20Pascal's%20Triangle%20II.java)|1 ms|
 |120|[ Triangle](https://leetcode.com/problems/triangle/)|[Java](./Solutions/120.%20Triangle.java)|3 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|2 ms|
+|124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](./Solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.java)|0 ms|
+
 
 
 
