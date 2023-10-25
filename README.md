@@ -97,6 +97,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |135|[ Candy](https://leetcode.com/problems/candy/)|[Java](./Solutions/135.%20Candy.java)|3 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[Java](./Solutions/136.%20Single%20Number.java)|1 ms|
 |137|[ Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./Solutions/137.%20Single%20Number%20II.java)|0 ms|
+|138|[ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./Solutions/138.%20Copy%20List%20with%20Random%20Pointer.java)|0 ms|
+
 
 
 
