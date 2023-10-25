@@ -101,6 +101,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[Java](./Solutions/139.%20Word%20Break.java)|5 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./Solutions/141.%20Linked%20List%20Cycle.java)|0 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./Solutions/142.%20Linked%20List%20Cycle%20II.java)|0 ms|
+|144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](./Solutions/144.%20Binary%20Tree%20Preorder%20Traversal.java)|0 ms|
+
 
 
 
