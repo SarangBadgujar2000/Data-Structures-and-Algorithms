@@ -100,6 +100,7 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |138|[ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./Solutions/138.%20Copy%20List%20with%20Random%20Pointer.java)|0 ms|
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[Java](./Solutions/139.%20Word%20Break.java)|5 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./Solutions/141.%20Linked%20List%20Cycle.java)|0 ms|
+|142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./Solutions/142.%20Linked%20List%20Cycle%20II.java)|0 ms|
 
 
 
