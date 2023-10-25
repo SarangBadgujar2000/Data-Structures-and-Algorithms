@@ -95,6 +95,7 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./Solutions/125.%20Valid%20Palindrome.java)|2 ms|
 |130|[ Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Java](./Solutions/130.%20Surrounded%20Regions.java)|1 ms|
 |135|[ Candy](https://leetcode.com/problems/candy/)|[Java](./Solutions/135.%20Candy.java)|3 ms|
+|136|[ Single Number](https://leetcode.com/problems/single-number/)|[Java](./Solutions/136.%20Single%20Number.java)|1 ms|
 
 
 
