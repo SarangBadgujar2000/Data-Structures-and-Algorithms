@@ -104,6 +104,7 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](./Solutions/144.%20Binary%20Tree%20Preorder%20Traversal.java)|0 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Solutions/145.%20Binary%20Tree%20Postorder%20Traversal.java)|0 ms|
 |146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Solutions/146.%20LRU%20Cache.java)|74 ms|
+|151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./Solutions/151.%20Reverse%20Words%20in%20a%20String.java)|15 ms|
 
 
 
