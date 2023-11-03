@@ -110,6 +110,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./Solutions/162.%20Find%20Peak%20Element.java)|0 ms|
 |167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./Solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java)|0 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./Solutions/169.%20Majority%20Element.java)|1 ms|
+|189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./Solutions/189.%20Rotate%20Array.java)|1 ms|
+
 
 
 
