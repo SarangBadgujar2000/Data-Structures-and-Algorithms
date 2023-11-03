@@ -108,6 +108,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
 |160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./Solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.java)|1 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./Solutions/162.%20Find%20Peak%20Element.java)|0 ms|
+|167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./Solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.java)|0 ms|
+
 
 
 
