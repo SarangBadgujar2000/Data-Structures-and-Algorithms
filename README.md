@@ -105,6 +105,9 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Solutions/145.%20Binary%20Tree%20Postorder%20Traversal.java)|0 ms|
 |146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Solutions/146.%20LRU%20Cache.java)|74 ms|
 |151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./Solutions/151.%20Reverse%20Words%20in%20a%20String.java)|15 ms|
+|153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)|0 ms|
+
+
 
 
 
