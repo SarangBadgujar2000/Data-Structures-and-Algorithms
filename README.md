@@ -103,6 +103,8 @@ For Java solutions, simply click on the "[Java]" link to access the code for the
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./Solutions/142.%20Linked%20List%20Cycle%20II.java)|0 ms|
 |144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](./Solutions/144.%20Binary%20Tree%20Preorder%20Traversal.java)|0 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Java](./Solutions/145.%20Binary%20Tree%20Postorder%20Traversal.java)|0 ms|
+|146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./Solutions/146.%20LRU%20Cache.java)|74 ms|
+
 
 
 
